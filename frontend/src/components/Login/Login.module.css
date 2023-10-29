@@ -1,0 +1,79 @@
+/*body {
+    background-image: url('C:\Users\Usuario\Downloads\Diseño sin título (10).png');
+    background-size: cover;
+    background-attachment: fixed; 
+    background-repeat: no-repeat;
+    background-position: left top;
+}*/
+/*.login-container {
+    background-image: url('C:\Users\Usuario\Downloads\Diseño sin título (10).png');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: left top;
+}*/
+body {
+    background-color: #cdd4ff; 
+}
+/*.formContainer {
+    width: 400px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 80px;
+    border-radius: 10px;
+    background-color: rgba(248, 241, 241, 0.927);
+    float: right;
+    height: 480px;
+    margin-right: 300px;
+}*/
+.formContainer {
+    width: 400px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 5px;
+    background-color: rgba(246, 236, 227, 0.958);
+}
+.topText {
+    text-align: center;
+} .subtitle {
+    text-align: center;
+    padding: 15px;
+}
+.label {
+    display: block;
+    margin-bottom: 15px;
+    text-align: left;
+    font-size: 16px;
+}
+
+.inputField {
+    width: 80%; 
+    height: 2px; 
+    padding: 5px; 
+    text-align: left;
+}
+
+.botonIngresar {
+    width: 350px;
+    height: 33px;
+    border-style: none;
+    background-color: #567eba;
+    color: whitesmoke;
+    border-radius: 5px;
+    margin-top: 8px;
+}
+.botonRegistro {
+    width: 350px;
+    height: 32px;
+    border-style: none;
+    background-color: #567eba;
+    color: whitesmoke;
+    border-radius: 5px;
+    margin-top: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 16px;
+}

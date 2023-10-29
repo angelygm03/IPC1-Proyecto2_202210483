@@ -1,0 +1,55 @@
+.medicinas-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.medicina {
+    width: 30%;
+    margin: 1%;
+    border: 1px solid #ccc;
+    padding: 15px 18px;
+    background-color: #fafafaf6;
+    text-align: center;
+    box-shadow: 2px 2px 5px #888;
+    flex-direction:column;
+    display: flex;
+    align-items: center;
+    border-radius: 7px;
+}
+.medicina h3 {
+    color: #10083d; 
+}
+.medicina button {
+    background-color: #567eba; 
+    color: #fff; 
+    border-style: none;
+    border-radius: 5px;
+    margin-top: 8px; 
+    width: 135px;
+    height: 37px;
+    margin-bottom: 13px;
+    font-size: 15px;
+    margin-top: auto;
+}
+.encabezado {
+    font-size: 30px; 
+    font-weight: bold; 
+    text-align: center;
+    color: #231010;
+    margin-bottom: 20px;
+    margin-top: 30px;
+  }
+.carrito-button {
+    background-color: #0a387d; 
+    color: #fff; 
+    border-style: none;
+    border-radius: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 15px;
+    position: absolute;
+    top: 90px; 
+    right: 58px;
+    height: 36px;
+    width: 125px;
+}
